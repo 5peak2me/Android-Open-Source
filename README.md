@@ -1,10 +1,11 @@
 # Android-Open-Source
 
 ### [Tencent](https://github.com/Tencent)
+
 | :--: | :--: |
-|[tinker](https://github.com/Tencent/tinker) | [![GitHub stars] 
-|[mars](https://github.com/Tencent/mars) | [![GitHub stars]
-|[wcdb](https://github.com/Tencent/wcdb) | [![GitHub stars]
+|[tinker](https://github.com/Tencent/tinker) | [![GitHub stars] |
+|[mars](https://github.com/Tencent/mars) | [![GitHub stars] |
+|[wcdb](https://github.com/Tencent/wcdb) | [![GitHub stars] |
 
 ### [alibaba](https://github.com/alibaba)
 | :--: | :--: |
