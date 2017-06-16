@@ -67,6 +67,8 @@
 |[drawee-text-view](https://github.com/Bilibili/drawee-text-view) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/drawee-text-view.svg?style=social&label=Star)]()
 
 ### 插件化
+| Repo | Star |
+| :--: | :--: |
 |[atlas](https://github.com/alibaba/atlas) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/atlas.svg?style=social&label=Star)]()
 |[RePlugin](https://github.com/Qihoo360/RePlugin) | [![GitHub stars](https://img.shields.io/github/stars/Qihoo360/RePlugin.svg?style=social&label=Star)]()
 |[DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) | [![GitHub stars](https://img.shields.io/github/stars/DroidPluginTeam/DroidPlugin.svg?style=social&label=Star)]()
@@ -81,12 +83,12 @@
 | Repo | Star |
 | :--: | :--: |
 |[tinker](https://github.com/Tencent/tinker) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/tinker.svg?style=social&label=Star)]()
+|[AndFix](https://github.com/alibaba/AndFix) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/AndFix.svg?style=social&label=Star)]()
+|[Nuwa](https://github.com/jasonross/Nuwa) | [![GitHub stars](https://img.shields.io/github/stars/jasonross/Nuwa.svg?style=social&label=Star)]()
 |[Robust](https://github.com/Meituan-Dianping/Robust) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Robust.svg?style=social&label=Star)]()
 |[Amigo](https://github.com/eleme/Amigo) | [![GitHub stars](https://img.shields.io/github/stars/eleme/Amigo.svg?style=social&label=Star)]()
 |[Aceso](https://github.com/meili/Aceso) | [![GitHub stars](https://img.shields.io/github/stars/meili/Aceso.svg?style=social&label=Star)]()
-|[AndFix](https://github.com/alibaba/AndFix) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/AndFix.svg?style=social&label=Star)]()
 |[QFix](https://github.com/lizhangqu/QFix) | [![GitHub stars](https://img.shields.io/github/stars/lizhangqu/QFix.svg?style=social&label=Star)]()
-|[Nuwa](https://github.com/jasonross/Nuwa) | [![GitHub stars](https://img.shields.io/github/stars/jasonross/Nuwa.svg?style=social&label=Star)]()
 |[HotFix](https://github.com/dodola/HotFix) | [![GitHub stars](https://img.shields.io/github/stars/dodola/HotFix.svg?style=social&label=Star)]()
 |[RocooFix](https://github.com/dodola/RocooFix) | [![GitHub stars](https://img.shields.io/github/stars/dodola/RocooFix.svg?style=social&label=Star)]()
 |[AnoleFix](https://github.com/dodola/AnoleFix) | [![GitHub stars](https://img.shields.io/github/stars/dodola/AnoleFix.svg?style=social&label=Star)]()
