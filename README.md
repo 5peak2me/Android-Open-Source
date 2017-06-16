@@ -65,3 +65,33 @@
 |[BiliShare](https://github.com/Bilibili/BiliShare) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/BiliShare.svg?style=social&label=Star)]()
 |[apk-channelization](https://github.com/Bilibili/apk-channelization) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/apk-channelization.svg?style=social&label=Star)]()
 |[drawee-text-view](https://github.com/Bilibili/drawee-text-view) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/drawee-text-view.svg?style=social&label=Star)]()
+
+### 插件化
+|[atlas](https://github.com/alibaba/atlas) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/atlas.svg?style=social&label=Star)]()
+|[RePlugin](https://github.com/Qihoo360/RePlugin) | [![GitHub stars](https://img.shields.io/github/stars/Qihoo360/RePlugin.svg?style=social&label=Star)]()
+|[DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) | [![GitHub stars](https://img.shields.io/github/stars/DroidPluginTeam/DroidPlugin.svg?style=social&label=Star)]()
+|[DynamicAPK](https://github.com/CtripMobile/DynamicAPK) | [![GitHub stars](https://img.shields.io/github/stars/CtripMobile/DynamicAPK.svg?style=social&label=Star)]()
+|[AndroidDynamicLoader](https://github.com/mmin18/AndroidDynamicLoader) | [![GitHub stars](https://img.shields.io/github/stars/mmin18/AndroidDynamicLoader.svg?style=social&label=Star)]()
+|[dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) | [![GitHub stars](https://img.shields.io/github/stars/singwhatiwanna/dynamic-load-apk.svg?style=social&label=Star)]()
+|[android-pluginmgr](https://github.com/houkx/android-pluginmgr) | [![GitHub stars](https://img.shields.io/github/stars/houkx/android-pluginmgr.svg?style=social&label=Star)]()
+|[ACDD](https://github.com/bunnyblue/ACDD) | [![GitHub stars](https://img.shields.io/github/stars/bunnyblue/ACDD.svg?style=social&label=Star)]()
+|[Small](https://github.com/wequick/Small) | [![GitHub stars](https://img.shields.io/github/stars/wequick/Small.svg?style=social&label=Star)]()
+
+### 热修复
+| Repo | Star |
+| :--: | :--: |
+|[tinker](https://github.com/Tencent/tinker) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/tinker.svg?style=social&label=Star)]()
+|[Robust](https://github.com/Meituan-Dianping/Robust) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Robust.svg?style=social&label=Star)]()
+|[Amigo](https://github.com/eleme/Amigo) | [![GitHub stars](https://img.shields.io/github/stars/eleme/Amigo.svg?style=social&label=Star)]()
+|[Aceso](https://github.com/meili/Aceso) | [![GitHub stars](https://img.shields.io/github/stars/meili/Aceso.svg?style=social&label=Star)]()
+|[AndFix](https://github.com/alibaba/AndFix) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/AndFix.svg?style=social&label=Star)]()
+|[QFix](https://github.com/lizhangqu/QFix) | [![GitHub stars](https://img.shields.io/github/stars/lizhangqu/QFix.svg?style=social&label=Star)]()
+|[Nuwa](https://github.com/jasonross/Nuwa) | [![GitHub stars](https://img.shields.io/github/stars/jasonross/Nuwa.svg?style=social&label=Star)]()
+|[HotFix](https://github.com/dodola/HotFix) | [![GitHub stars](https://img.shields.io/github/stars/dodola/HotFix.svg?style=social&label=Star)]()
+|[RocooFix](https://github.com/dodola/RocooFix) | [![GitHub stars](https://img.shields.io/github/stars/dodola/RocooFix.svg?style=social&label=Star)]()
+|[AnoleFix](https://github.com/dodola/AnoleFix) | [![GitHub stars](https://img.shields.io/github/stars/dodola/AnoleFix.svg?style=social&label=Star)]()
+|[HotFix](https://github.com/AItsuki/HotFix) | [![GitHub stars](https://img.shields.io/github/stars/AItsuki/HotFix.svg?style=social&label=Star)]()
+|[ZeusHotfix](https://github.com/ireaderlab/ZeusHotfix) | [![GitHub stars](https://img.shields.io/github/stars/ireaderlab/ZeusHotfix.svg?style=social&label=Star)]()
+|[Savior](https://github.com/HalfStackDeveloper/Savior) | [![GitHub stars](https://img.shields.io/github/stars/HalfStackDeveloper/Savior.svg?style=social&label=Star)]()
+|[ultron](https://github.com/achellies/ultron) | [![GitHub stars](https://img.shields.io/github/stars/achellies/ultron.svg?style=social&label=Star)]()
+|[DroidFix](https://github.com/bunnyblue/DroidFix) | [![GitHub stars](https://img.shields.io/github/stars/bunnyblue/DroidFix.svg?style=social&label=Star)]()
