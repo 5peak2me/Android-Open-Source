@@ -78,6 +78,13 @@
 |[android-pluginmgr](https://github.com/houkx/android-pluginmgr) | [![GitHub stars](https://img.shields.io/github/stars/houkx/android-pluginmgr.svg?style=social&label=Star)]()
 |[ACDD](https://github.com/bunnyblue/ACDD) | [![GitHub stars](https://img.shields.io/github/stars/bunnyblue/ACDD.svg?style=social&label=Star)]()
 |[Small](https://github.com/wequick/Small) | [![GitHub stars](https://img.shields.io/github/stars/wequick/Small.svg?style=social&label=Star)]()
+|[VirtualApp](https://github.com/asLody/VirtualApp) | [![GitHub stars](https://img.shields.io/github/stars/asLody/VirtualApp.svg?style=social&label=Star)]()
+|[Android-Plugin-Framework](https://github.com/limpoxe/Android-Plugin-Framework) | [![GitHub stars](https://img.shields.io/github/stars/limpoxe/Android-Plugin-Framework.svg?style=social&label=Star)]()
+|[AndroidPluginFramework](https://github.com/nuptboyzhb/AndroidPluginFramework) | [![GitHub stars](https://img.shields.io/github/stars/nuptboyzhb/AndroidPluginFramework.svg?style=social&label=Star)]()
+|[apf](https://github.com/umeng/apf) | [![GitHub stars](https://img.shields.io/github/stars/umeng/apf.svg?style=social&label=Star)]()
+|[axbasePlugin](https://github.com/chunquedong/axbasePlugin) | [![GitHub stars](https://img.shields.io/github/stars/chunquedong/axbasePlugin.svg?style=social&label=Star)]()
+|[xCombine](https://github.com/xiedantibu/xCombine) | [![GitHub stars](https://img.shields.io/github/stars/xiedantibu/xCombine.svg?style=social&label=Star)]()
+|[Direct-Load-apk](https://github.com/mmyydd/Direct-Load-apk) | [![GitHub stars](https://img.shields.io/github/stars/mmyydd/Direct-Load-apk.svg?style=social&label=Star)]()
 
 ### 热修复
 | Repo | Star |
