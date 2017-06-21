@@ -1,4 +1,47 @@
 # Android-Open-Source
+## [facebook](https://github.com/facebook)
+| Repo | Star |
+| :--: | :--: |
+| [buck](https://github.com/facebook/buck) | [![GitHub stars](https://img.shields.io/github/stars/facebook/buck.svg?style=social&label=Star)]()
+| [react-native](https://github.com/facebook/react-native) | [![GitHub stars](https://img.shields.io/github/stars/facebook/react-native.svg?style=social&label=Star)]()
+| [redex](https://github.com/facebook/redex) | [![GitHub stars](https://img.shields.io/github/stars/facebook/redex.svg?style=social&label=Star)]()
+| [litho](https://github.com/facebook/litho) | [![GitHub stars](https://img.shields.io/github/stars/facebook/litho.svg?style=social&label=Star)]()
+| [shimmer-android](https://github.com/facebook/shimmer-android) | [![GitHub stars](https://img.shields.io/github/stars/facebook/shimmer-android.svg?style=social&label=Star)]()
+| [android-jsc](https://github.com/facebook/android-jsc) | [![GitHub stars](https://img.shields.io/github/stars/facebook/android-jsc.svg?style=social&label=Star)]()
+| [fresco](https://github.com/facebook/fresco) | [![GitHub stars](https://img.shields.io/github/stars/facebook/fresco.svg?style=social&label=Star)]()
+| [SoLoader](https://github.com/facebook/SoLoader) | [![GitHub stars](https://img.shields.io/github/stars/facebook/SoLoader.svg?style=social&label=Star)]()
+| [conceal](https://github.com/facebook/conceal) | [![GitHub stars](https://img.shields.io/github/stars/facebook/conceal.svg?style=social&label=Star)]()
+| [stetho](https://github.com/facebook/stetho) | [![GitHub stars](https://img.shields.io/github/stars/facebook/stetho.svg?style=social&label=Star)]()
+
+## [google](https://github.com/google)
+| Repo | Star |
+| :--: | :--: |
+| [cameraview](https://github.com/google/cameraview) | [![GitHub stars](https://img.shields.io/github/stars/google/cameraview.svg?style=social&label=Star)]()
+| [ExoPlayer](https://github.com/google/ExoPlayer) | [![GitHub stars](https://img.shields.io/github/stars/google/ExoPlayer.svg?style=social&label=Star)]()
+| [flexbox-layout](https://github.com/google/flexbox-layout) | [![GitHub stars](https://img.shields.io/github/stars/google/flexbox-layout.svg?style=social&label=Star)]()
+| [agera](https://github.com/google/agera) | [![GitHub stars](https://img.shields.io/github/stars/google/agera.svg?style=social&label=Star)]()
+| [material-design-icons](https://github.com/google/material-design-icons) | [![GitHub stars](https://img.shields.io/github/stars/google/material-design-icons.svg?style=social&label=Star)]()
+| [santa-tracker-android](https://github.com/google/santa-tracker-android) | [![GitHub stars](https://img.shields.io/github/stars/google/santa-tracker-android.svg?style=social&label=Star)]()
+| [cdep](https://github.com/google/cdep) | [![GitHub stars](https://img.shields.io/github/stars/google/cdep.svg?style=social&label=Star)]()
+| [android-classyshark](https://github.com/google/android-classyshark) | [![GitHub stars](https://img.shields.io/github/stars/google/android-classyshark.svg?style=social&label=Star)]()
+| [easybundler](https://github.com/google/easybundler) | [![GitHub stars](https://img.shields.io/github/stars/google/easybundler.svg?style=social&label=Star)]()
+| [blockly-android](https://github.com/google/blockly-android) | [![GitHub stars](https://img.shields.io/github/stars/google/blockly-android.svg?style=social&label=Star)]()
+| [android-arscblamer](https://github.com/google/android-arscblamer) | [![GitHub stars](https://img.shields.io/github/stars/facebook/android-arscblamer.svg?style=social&label=Star)]()
+| [android-ui-toolkit-demos](https://github.com/google/android-ui-toolkit-demos) | [![GitHub stars](https://img.shields.io/github/stars/google/android-ui-toolkit-demos.svg?style=social&label=Star)]()
+| [android-gradle-dsl](https://github.com/google/android-gradle-dsl) | [![GitHub stars](https://img.shields.io/github/stars/google/android-gradle-dsl.svg?style=social&label=Star)]()
+| [googletv-android-samples](https://github.com/google/googletv-android-samples) | [![GitHub stars](https://img.shields.io/github/stars/google/googletv-android-samples.svg?style=social&label=Star)]()
+| [xrtl](https://github.com/google/xrtl) | [![GitHub stars](https://img.shields.io/github/stars/facebook/xrtl.svg?style=social&label=Star)]()
+| [picview-for-android](https://github.com/google/picview-for-android) | [![GitHub stars](https://img.shields.io/github/stars/google/picview-for-android.svg?style=social&label=Star)]()
+| [hover](https://github.com/google/hover) | [![GitHub stars](https://img.shields.io/github/stars/google/hover.svg?style=social&label=Star)]()
+| [music-synthesizer-for-android](https://github.com/google/music-synthesizer-for-android) | [![GitHub stars](https://img.shields.io/github/stars/google/music-synthesizer-for-android.svg?style=social&label=Star)]()
+| [dagger](https://github.com/google/dagger) | [![GitHub stars](https://img.shields.io/github/stars/facebook/dagger.svg?style=social&label=Star)]()
+| [battery-historian](https://github.com/google/battery-historian) | [![GitHub stars](https://img.shields.io/github/stars/google/battery-historian.svg?style=social&label=Star)]()
+| [coursebuilder-android-container-module](https://github.com/google/coursebuilder-android-container-module) | [![GitHub stars](https://img.shields.io/github/stars/google/coursebuilder-android-container-module.svg?style=social&label=Star)]()
+| [fplutil](https://github.com/google/fplutil) | [![GitHub stars](https://img.shields.io/github/stars/google/fplutil.svg?style=social&label=Star)]()
+| [xrtl](https://github.com/google/xrtl) | [![GitHub stars](https://img.shields.io/github/stars/facebook/xrtl.svg?style=social&label=Star)]()
+
+## [googlesamples](https://github.com/googlesamples)
+
 ## [Tencent](https://github.com/Tencent)
 | Repo | Star |
 | :--: | :--: |
