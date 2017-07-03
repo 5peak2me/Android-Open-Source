@@ -47,6 +47,7 @@
 | [tinker](https://github.com/Tencent/tinker) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/tinker.svg?style=social&label=Star)]()
 | [mars](https://github.com/Tencent/mars) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/mars.svg?style=social&label=Star)]()
 | [wcdb](https://github.com/Tencent/wcdb) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/wcdb.svg?style=social&label=Star)]()
+| [GT](https://github.com/Tencent/GT) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/GT.svg?style=social&label=Star)]()
 
 ## [alibaba](https://github.com/alibaba)
 | Repo | Star |
@@ -127,6 +128,7 @@
 |[axbasePlugin](https://github.com/chunquedong/axbasePlugin) | [![GitHub stars](https://img.shields.io/github/stars/chunquedong/axbasePlugin.svg?style=social&label=Star)]()
 |[xCombine](https://github.com/xiedantibu/xCombine) | [![GitHub stars](https://img.shields.io/github/stars/xiedantibu/xCombine.svg?style=social&label=Star)]()
 |[Direct-Load-apk](https://github.com/mmyydd/Direct-Load-apk) | [![GitHub stars](https://img.shields.io/github/stars/mmyydd/Direct-Load-apk.svg?style=social&label=Star)]()
+|[VirtualAPK](https://github.com/didi/VirtualAPK) | [![GitHub stars](https://img.shields.io/github/stars/didi/VirtualAPK.svg?style=social&label=Star)]()
 
 ### 热修复
 | Repo | Star |
