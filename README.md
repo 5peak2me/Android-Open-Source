@@ -47,7 +47,10 @@
 | [tinker](https://github.com/Tencent/tinker) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/tinker.svg?style=social&label=Star)]()
 | [mars](https://github.com/Tencent/mars) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/mars.svg?style=social&label=Star)]()
 | [wcdb](https://github.com/Tencent/wcdb) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/wcdb.svg?style=social&label=Star)]()
-| [GT](https://github.com/Tencent/GT) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/GT.svg?style=social&label=Star)]()
+| [AndResGuard](https://github.com/shwenzhang/AndResGuard) | [![GitHub stars](https://img.shields.io/github/stars/shwenzhang/AndResGuard.svg?style=social&label=Star)]()
+| [VasDolly](https://github.com/Tencent/VasDolly) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/VasDolly.svg?style=social&label=Star)]()
+| [VasSonic](https://github.com/Tencent/VasSonic) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/VasSonic.svg?style=social&label=Star)]()
+| [RapidView](https://github.com/Tencent/RapidView) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/RapidView.svg?style=social&label=Star)]()
 
 ## [alibaba](https://github.com/alibaba)
 | Repo | Star |
