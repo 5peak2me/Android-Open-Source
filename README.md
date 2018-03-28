@@ -16,6 +16,7 @@
 ## [google](https://github.com/google)
 | Repo | Star |
 | :--: | :--: |
+| [flutter](https://github.com/flutter/flutter) | [![GitHub stars](https://img.shields.io/github/stars/flutter/flutter.svg?style=social&label=Star)]()
 | [cameraview](https://github.com/google/cameraview) | [![GitHub stars](https://img.shields.io/github/stars/google/cameraview.svg?style=social&label=Star)]()
 | [ExoPlayer](https://github.com/google/ExoPlayer) | [![GitHub stars](https://img.shields.io/github/stars/google/ExoPlayer.svg?style=social&label=Star)]()
 | [flexbox-layout](https://github.com/google/flexbox-layout) | [![GitHub stars](https://img.shields.io/github/stars/google/flexbox-layout.svg?style=social&label=Star)]()
