@@ -123,7 +123,73 @@
 |[ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin) | [![GitHub stars](https://img.shields.io/github/stars/iReaderAndroid/ZeusPlugin.svg?style=social&label=Star)]()
 
 ## [didi](https://github.com/didi)
+| Repo | Star |
+| :--: | :--: |
 |[VirtualAPK](https://github.com/didi/VirtualAPK) | [![GitHub stars](https://img.shields.io/github/stars/didi/VirtualAPK.svg?style=social&label=Star)]()
+
+## [iqiyi](https://github.com/iqiyi)
+| Repo | Star |
+| :--: | :--: |
+|[dexSplitter](https://github.com/iqiyi/dexSplitter) | [![GitHub stars](https://img.shields.io/github/stars/iqiyi/dexSplitter.svg?style=social&label=Star)]()
+|[LiteApp](https://github.com/iqiyi/LiteApp) | [![GitHub stars](https://img.shields.io/github/stars/iqiyi/LiteApp.svg?style=social&label=Star)]()
+|[xHook](https://github.com/iqiyi/xHook) | [![GitHub stars](https://img.shields.io/github/stars/iqiyi/xHook.svg?style=social&label=Star)]()
+|[lotus](https://github.com/iqiyi/lotus) | [![GitHub stars](https://img.shields.io/github/stars/iqiyi/lotus.svg?style=social&label=Star)]()
+
+## [airbnb](https://github.com/airbnb)
+| Repo | Star |
+| :--: | :--: |
+|[DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/DeepLinkDispatch.svg?style=social&label=Star)]()
+|[lotus](https://github.com/airbnb/lotus) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/lotus.svg?style=social&label=Star)]()
+|[okreplay](https://github.com/airbnb/okreplay) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/okreplay.svg?style=social&label=Star)]()
+|[AirMapView](https://github.com/airbnb/AirMapView) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/AirMapView.svg?style=social&label=Star)]()
+|[RxGroups](https://github.com/airbnb/RxGroups) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/RxGroups.svg?style=social&label=Star)]()
+|[paris](https://github.com/airbnb/paris) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/paris.svg?style=social&label=Star)]()
+|[epoxy](https://github.com/airbnb/epoxy) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/epoxy.svg?style=social&label=Star)]()
+|[lottie-android](https://github.com/airbnb/lottie-android) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/lottie-android.svg?style=social&label=Star)]()
+
+## [KeepSafe](https://github.com/KeepSafe)
+| Repo | Star |
+| :--: | :--: |
+|[ReLinker](https://github.com/KeepSafe/ReLinker) | [![GitHub stars](https://img.shields.io/github/stars/KeepSafe/ReLinker.svg?style=social&label=Star)]()
+|[dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) | [![GitHub stars](https://img.shields.io/github/stars/KeepSafe/dexcount-gradle-plugin.svg?style=social&label=Star)]()
+|[Switchboard-Android](https://github.com/KeepSafe/Switchboard-Android) | [![GitHub stars](https://img.shields.io/github/stars/KeepSafe/Switchboard-Android.svg?style=social&label=Star)]()
+|[TapTargetView](https://github.com/KeepSafe/TapTargetView) | [![GitHub stars](https://img.shields.io/github/stars/KeepSafe/TapTargetView.svg?style=social&label=Star)]()
+|[android-resource-remover](https://github.com/KeepSafe/android-resource-remover) | [![GitHub stars](https://img.shields.io/github/stars/KeepSafe/android-resource-remover.svg?style=social&label=Star)]()
+|[MultiStateAnimation](https://github.com/KeepSafe/MultiStateAnimation) | [![GitHub stars](https://img.shields.io/github/stars/KeepSafe/MultiStateAnimation.svg?style=social&label=Star)]()
+
+### 路由
+| Repo | Star |
+| :--: | :--: |
+|[ARouter](https://github.com/alibaba/ARouter) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/ARouter.svg?style=social&label=Star)]()
+|[Router](https://github.com/chenenyu/Router) | [![GitHub stars](https://img.shields.io/github/stars/chenenyu/Router.svg?style=social&label=Star)]()
+|[AndRouter](https://github.com/campusappcn/AndRouter) | [![GitHub stars](https://img.shields.io/github/stars/campusappcn/AndRouter.svg?style=social&label=Star)]()
+|[ActivityRouter](https://github.com/mzule/ActivityRouter) | [![GitHub stars](https://img.shields.io/github/stars/mzule/ActivityRouter.svg?style=social&label=Star)]()
+|[Router](https://github.com/JumeiRdGroup/Router) | [![GitHub stars](https://img.shields.io/github/stars/JumeiRdGroup/Router.svg?style=social&label=Star)]()
+|[routable-android](https://github.com/clayallsopp/routable-android) | [![GitHub stars](https://img.shields.io/github/stars/clayallsopp/routable-android.svg?style=social&label=Star)]()
+|[DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/DeepLinkDispatch.svg?style=social&label=Star)]()
+|[Andromeda](https://github.com/iqiyi/Andromeda) | [![GitHub stars](https://img.shields.io/github/stars/iqiyi/Andromeda.svg?style=social&label=Star)]()
+|[Meepo](https://github.com/nekocode/Meepo) | [![GitHub stars](https://img.shields.io/github/stars/nekocode/Meepo.svg?style=social&label=Star)]()
+|[ActivityRouter](https://github.com/joyrun/ActivityRouter) | [![GitHub stars](https://img.shields.io/github/stars/joyrun/ActivityRouter.svg?style=social&label=Star)]()
+|[android-dynamic-action](https://github.com/benniaobuguai/android-dynamic-action) | [![GitHub stars](https://img.shields.io/github/stars/benniaobuguai/android-dynamic-action.svg?style=social&label=Star)]()
+|[Android-Router](https://github.com/TangXiaoLv/Android-Router) | [![GitHub stars](https://img.shields.io/github/stars/TangXiaoLv/Android-Router.svg?style=social&label=Star)]()
+|[Router](https://github.com/TangXiaoLv/BaronZ88/Router) | [![GitHub stars](https://img.shields.io/github/stars/BaronZ88/BaronZ88/Router.svg?style=social&label=Star)]()
+|[router](https://github.com/eyeem/router) | [![GitHub stars](https://img.shields.io/github/stars/eyeem/router.svg?style=social&label=Star)]()
+|[Router](https://github.com/SilenceDut/Router) | [![GitHub stars](https://img.shields.io/github/stars/SilenceDut/Router.svg?style=social&label=Star)]()
+|[EasyRouter](https://github.com/liuzhao2007/EasyRouter) | [![GitHub stars](https://img.shields.io/github/stars/liuzhao2007/EasyRouter.svg?style=social&label=Star)]()
+|[RouterKit](https://github.com/gybin02/RouterKit) | [![GitHub stars](https://img.shields.io/github/stars/gybin02/RouterKit.svg?style=social&label=Star)]()
+|[Rabbits](https://github.com/Rabbits/Rabbits) | [![GitHub stars](https://img.shields.io/github/stars/Rabbits/Rabbits.svg?style=social&label=Star)]()
+|[RxViper](https://github.com/RxViper/RxViper) | [![GitHub stars](https://img.shields.io/github/stars/RxViper/RxViper.svg?style=social&label=Star)]()
+|[MRouter](https://github.com/motcwang/MRouter) | [![GitHub stars](https://img.shields.io/github/stars/motcwang/MRouter.svg?style=social&label=Star)]()
+|[UrlRouter](https://github.com/Sunzxyong/UrlRouter) | [![GitHub stars](https://img.shields.io/github/stars/Sunzxyong/UrlRouter.svg?style=social&label=Star)]()
+|[android-router](https://github.com/trikita/android-router) | [![GitHub stars](https://img.shields.io/github/stars/trikita/android-router.svg?style=social&label=Star)]()
+|[RouterManager](https://github.com/BobsWang/RouterManager) | [![GitHub stars](https://img.shields.io/github/stars/BobsWang/RouterManager.svg?style=social&label=Star)]()
+|[Android-Router](https://github.com/myjoybar/Android-Router) | [![GitHub stars](https://img.shields.io/github/stars/myjoybar/Android-Router.svg?style=social&label=Star)]()
+|[Naviganto](https://github.com/FireZenk/Naviganto) | [![GitHub stars](https://img.shields.io/github/stars/FireZenk/Naviganto.svg?style=social&label=Star)]()
+|[BAndroidRouter](https://github.com/beansoftapp/BAndroidRouter) | [![GitHub stars](https://img.shields.io/github/stars/beansoftapp/BAndroidRouter.svg?style=social&label=Star)]()
+|[MRouter](https://github.com/chiclaim/MRouter) | [![GitHub stars](https://img.shields.io/github/stars/chiclaim/MRouter.svg?style=social&label=Star)]()
+|[SAF-Kotlin-Router](https://github.com/fengzhizi715/SAF-Kotlin-Router) | [![GitHub stars](https://img.shields.io/github/stars/fengzhizi715/SAF-Kotlin-Router.svg?style=social&label=Star)]()
+|[UrlRouter](https://github.com/reallin/UrlRouter) | [![GitHub stars](https://img.shields.io/github/stars/reallin/UrlRouter.svg?style=social&label=Star)]()
+|[android-router](https://github.com/trikita/android-router) | [![GitHub stars](https://img.shields.io/github/stars/trikita/android-router.svg?style=social&label=Star)]()
 
 ### 插件化
 | Repo | Star |
