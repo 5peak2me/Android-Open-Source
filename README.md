@@ -172,12 +172,12 @@
 |[ActivityRouter](https://github.com/joyrun/ActivityRouter) | [![GitHub stars](https://img.shields.io/github/stars/joyrun/ActivityRouter.svg?style=social&label=Star)]()
 |[android-dynamic-action](https://github.com/benniaobuguai/android-dynamic-action) | [![GitHub stars](https://img.shields.io/github/stars/benniaobuguai/android-dynamic-action.svg?style=social&label=Star)]()
 |[Android-Router](https://github.com/TangXiaoLv/Android-Router) | [![GitHub stars](https://img.shields.io/github/stars/TangXiaoLv/Android-Router.svg?style=social&label=Star)]()
-|[Router](https://github.com/TangXiaoLv/BaronZ88/Router) | [![GitHub stars](https://img.shields.io/github/stars/BaronZ88/BaronZ88/Router.svg?style=social&label=Star)]()
+|[Router](https://github.com/BaronZ88/Router) | [![GitHub stars](https://img.shields.io/github/stars/BaronZ88/Router.svg?style=social&label=Star)]()
 |[router](https://github.com/eyeem/router) | [![GitHub stars](https://img.shields.io/github/stars/eyeem/router.svg?style=social&label=Star)]()
 |[Router](https://github.com/SilenceDut/Router) | [![GitHub stars](https://img.shields.io/github/stars/SilenceDut/Router.svg?style=social&label=Star)]()
 |[EasyRouter](https://github.com/liuzhao2007/EasyRouter) | [![GitHub stars](https://img.shields.io/github/stars/liuzhao2007/EasyRouter.svg?style=social&label=Star)]()
 |[RouterKit](https://github.com/gybin02/RouterKit) | [![GitHub stars](https://img.shields.io/github/stars/gybin02/RouterKit.svg?style=social&label=Star)]()
-|[Rabbits](https://github.com/Rabbits/Rabbits) | [![GitHub stars](https://img.shields.io/github/stars/Rabbits/Rabbits.svg?style=social&label=Star)]()
+|[Rabbits](https://github.com/kyleduo/Rabbits) | [![GitHub stars](https://img.shields.io/github/stars/kyleduo/Rabbits.svg?style=social&label=Star)]()
 |[RxViper](https://github.com/RxViper/RxViper) | [![GitHub stars](https://img.shields.io/github/stars/RxViper/RxViper.svg?style=social&label=Star)]()
 |[MRouter](https://github.com/motcwang/MRouter) | [![GitHub stars](https://img.shields.io/github/stars/motcwang/MRouter.svg?style=social&label=Star)]()
 |[UrlRouter](https://github.com/Sunzxyong/UrlRouter) | [![GitHub stars](https://img.shields.io/github/stars/Sunzxyong/UrlRouter.svg?style=social&label=Star)]()
@@ -218,7 +218,7 @@
 |[ModularizationArchitecture](https://github.com/SpinyTech/ModularizationArchitecture) | [![GitHub stars](https://img.shields.io/github/stars/SpinyTech/ModularizationArchitecture.svg?style=social&label=Star)]()
 |[ModuleBus](https://github.com/cangwang/ModuleBus) | [![GitHub stars](https://img.shields.io/github/stars/cangwang/ModuleBus.svg?style=social&label=Star)]()
 |[AndroidModulePattern](https://github.com/guiying712/AndroidModulePattern) | [![GitHub stars](https://img.shields.io/github/stars/guiying712/AndroidModulePattern.svg?style=social&label=Star)]()
-|[ArmsComponent](https://github.com/ArmsComponent/ArmsComponent) | [![GitHub stars](https://img.shields.io/github/stars/ArmsComponent/ArmsComponent.svg?style=social&label=Star)]()
+|[ArmsComponent](https://github.com/JessYanCoding/ArmsComponent) | [![GitHub stars](https://img.shields.io/github/stars/JessYanCoding/ArmsComponent.svg?style=social&label=Star)]()
 
 ### 热修复
 | Repo | Star |
