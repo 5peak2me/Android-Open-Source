@@ -91,8 +91,7 @@
 | :--: | :--: |
 |[Amigo](https://github.com/eleme/Amigo) | [![GitHub stars](https://img.shields.io/github/stars/eleme/Amigo.svg?style=social&label=Star)]()
 |[Mess](https://github.com/eleme/Mess) | [![GitHub stars](https://img.shields.io/github/stars/eleme/Mess.svg?style=social&label=Star)]()
-|[ButterCookie](https://github.com/eleme/ButterCookie) | [![GitHub stars](https://img.shields.io/github/stars/eleme/ButterCookie.svg?style=social&label=Star)]()
-|[bspatch](https://github.com/eleme/bspatch) | [![GitHub stars](https://img.shields.io/github/stars/eleme/bspatch.svg?style=social&label=Star)]()
+|[bigkeeper](https://github.com/eleme/bigkeeper) | [![GitHub stars](https://img.shields.io/github/stars/eleme/bigkeeper.svg?style=social&label=Star)]()
 
 ## [meili](https://github.com/meili)
 | Repo | Star |
@@ -139,7 +138,6 @@
 | Repo | Star |
 | :--: | :--: |
 |[DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/DeepLinkDispatch.svg?style=social&label=Star)]()
-|[lotus](https://github.com/airbnb/lotus) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/lotus.svg?style=social&label=Star)]()
 |[okreplay](https://github.com/airbnb/okreplay) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/okreplay.svg?style=social&label=Star)]()
 |[AirMapView](https://github.com/airbnb/AirMapView) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/AirMapView.svg?style=social&label=Star)]()
 |[RxGroups](https://github.com/airbnb/RxGroups) | [![GitHub stars](https://img.shields.io/github/stars/airbnb/RxGroups.svg?style=social&label=Star)]()
