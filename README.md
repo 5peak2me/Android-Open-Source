@@ -78,6 +78,7 @@
 | :--: | :--: |
 |[Robust](https://github.com/Meituan-Dianping/Robust) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Robust.svg?style=social&label=Star)]()
 |[walle](https://github.com/Meituan-Dianping/walle) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/walle.svg?style=social&label=Star)]()
+|[Shield](https://github.com/Meituan-Dianping/Shield) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Shield.svg?style=social&label=Star)]()
 
 ## [ctripcorp](https://github.com/ctripcorp)
 | Repo | Star |
@@ -113,6 +114,17 @@
 |[apk-channelization](https://github.com/Bilibili/apk-channelization) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/apk-channelization.svg?style=social&label=Star)]()
 |[drawee-text-view](https://github.com/Bilibili/drawee-text-view) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/drawee-text-view.svg?style=social&label=Star)]()
 
+## [iReader](https://github.com/iReaderAndroid)
+## [ireaderlab](https://github.com/ireaderlab)
+| Repo | Star |
+| :--: | :--: |
+|[ZeusHotfix](https://github.com/iReaderAndroid/ZeusHotfix) | [![GitHub stars](https://img.shields.io/github/stars/iReaderAndroid/ZeusHotfix.svg?style=social&label=Star)]()
+|[PatchPluginForZeus](https://github.com/iReaderAndroid/PatchPluginForZeus) | [![GitHub stars](https://img.shields.io/github/stars/iReaderAndroid/PatchPluginForZeus.svg?style=social&label=Star)]()
+|[ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin) | [![GitHub stars](https://img.shields.io/github/stars/iReaderAndroid/ZeusPlugin.svg?style=social&label=Star)]()
+
+## [didi](https://github.com/didi)
+|[VirtualAPK](https://github.com/didi/VirtualAPK) | [![GitHub stars](https://img.shields.io/github/stars/didi/VirtualAPK.svg?style=social&label=Star)]()
+
 ### 插件化
 | Repo | Star |
 | :--: | :--: |
@@ -133,6 +145,14 @@
 |[xCombine](https://github.com/xiedantibu/xCombine) | [![GitHub stars](https://img.shields.io/github/stars/xiedantibu/xCombine.svg?style=social&label=Star)]()
 |[Direct-Load-apk](https://github.com/mmyydd/Direct-Load-apk) | [![GitHub stars](https://img.shields.io/github/stars/mmyydd/Direct-Load-apk.svg?style=social&label=Star)]()
 |[VirtualAPK](https://github.com/didi/VirtualAPK) | [![GitHub stars](https://img.shields.io/github/stars/didi/VirtualAPK.svg?style=social&label=Star)]()
+|[CC](https://github.com/luckybilly/CC) | [![GitHub stars](https://img.shields.io/github/stars/luckybilly/CC.svg?style=social&label=Star)]()
+|[XModulable](https://github.com/xpleemoon/XModulable) | [![GitHub stars](https://img.shields.io/github/stars/xpleemoon/XModulable.svg?style=social&label=Star)]()
+|[stitch](https://github.com/bambootang/stitch) | [![GitHub stars](https://img.shields.io/github/stars/bambootang/stitch.svg?style=social&label=Star)]()
+|[ModularizationProject](https://github.com/BaronZ88/ModularizationProject) | [![GitHub stars](https://img.shields.io/github/stars/BaronZ88/ModularizationProject.svg?style=social&label=Star)]()
+|[ModularizationArchitecture](https://github.com/SpinyTech/ModularizationArchitecture) | [![GitHub stars](https://img.shields.io/github/stars/SpinyTech/ModularizationArchitecture.svg?style=social&label=Star)]()
+|[ModuleBus](https://github.com/cangwang/ModuleBus) | [![GitHub stars](https://img.shields.io/github/stars/cangwang/ModuleBus.svg?style=social&label=Star)]()
+|[AndroidModulePattern](https://github.com/guiying712/AndroidModulePattern) | [![GitHub stars](https://img.shields.io/github/stars/guiying712/AndroidModulePattern.svg?style=social&label=Star)]()
+|[ArmsComponent](https://github.com/ArmsComponent/ArmsComponent) | [![GitHub stars](https://img.shields.io/github/stars/ArmsComponent/ArmsComponent.svg?style=social&label=Star)]()
 
 ### 热修复
 | Repo | Star |
