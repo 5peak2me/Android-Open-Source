@@ -92,6 +92,10 @@
 |[Amigo](https://github.com/eleme/Amigo) | [![GitHub stars](https://img.shields.io/github/stars/eleme/Amigo.svg?style=social&label=Star)]()
 |[Mess](https://github.com/eleme/Mess) | [![GitHub stars](https://img.shields.io/github/stars/eleme/Mess.svg?style=social&label=Star)]()
 |[bigkeeper](https://github.com/eleme/bigkeeper) | [![GitHub stars](https://img.shields.io/github/stars/eleme/bigkeeper.svg?style=social&label=Star)]()
+|[lancet](https://github.com/eleme/lancet) | [![GitHub stars](https://img.shields.io/github/stars/eleme/lancet.svg?style=social&label=Star)]()
+|[Intimate](https://github.com/eleme/Intimate) | [![GitHub stars](https://img.shields.io/github/stars/eleme/Intimate.svg?style=social&label=Star)]()
+|[Trojan](https://github.com/eleme/Trojan) | [![GitHub stars](https://img.shields.io/github/stars/eleme/Trojan.svg?style=social&label=Star)]()
+|[UETool](https://github.com/eleme/UETool) | [![GitHub stars](https://img.shields.io/github/stars/eleme/UETool.svg?style=social&label=Star)]()
 
 ## [meili](https://github.com/meili)
 | Repo | Star |
