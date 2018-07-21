@@ -221,6 +221,7 @@
 |[ModuleBus](https://github.com/cangwang/ModuleBus) | [![GitHub stars](https://img.shields.io/github/stars/cangwang/ModuleBus.svg?style=social&label=Star)]()
 |[AndroidModulePattern](https://github.com/guiying712/AndroidModulePattern) | [![GitHub stars](https://img.shields.io/github/stars/guiying712/AndroidModulePattern.svg?style=social&label=Star)]()
 |[ArmsComponent](https://github.com/JessYanCoding/ArmsComponent) | [![GitHub stars](https://img.shields.io/github/stars/JessYanCoding/ArmsComponent.svg?style=social&label=Star)]()
+|[JIMU](https://github.com/mqzhangw/JIMU) | [![GitHub stars](https://img.shields.io/github/stars/mqzhangw/JIMU.svg?style=social&label=Star)]()
 
 ### 热修复
 | Repo | Star |
