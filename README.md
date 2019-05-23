@@ -57,21 +57,49 @@
 | Repo | Star |
 | :--: | :--: |
 |[weex](https://github.com/alibaba/weex) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/weex.svg?style=social&label=Star)]()
+|[weex-ui](https://github.com/alibaba/weex-ui) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/weex-ui.svg?style=social&label=Star)]()
 |[fastjson](https://github.com/alibaba/fastjson) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/fastjson.svg?style=social&label=Star)]()
+|[dexposed](https://github.com/alibaba/dexposed) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/dexposed.svg?style=social&label=Star)]()
 |[atlas](https://github.com/alibaba/atlas) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/atlas.svg?style=social&label=Star)]()
 |[ARouter](https://github.com/alibaba/ARouter) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/ARouter.svg?style=social&label=Star)]()
 |[vlayout](https://github.com/alibaba/vlayout) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/vlayout.svg?style=social&label=Star)]()
 |[freeline](https://github.com/alibaba/freeline) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/freeline.svg?style=social&label=Star)]()
 |[UltraViewPager](https://github.com/alibaba/UltraViewPager) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/UltraViewPager.svg?style=social&label=Star)]()
 |[Tangram-Android](https://github.com/alibaba/Tangram-Android) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/Tangram-Android.svg?style=social&label=Star)]()
+|[Virtualview-Android](https://github.com/alibaba/Virtualview-Android) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/Virtualview-Android.svg?style=social&label=Star)]()
+|[Tangram-iOS](https://github.com/alibaba/Tangram-iOS) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/Tangram-iOS.svg?style=social&label=Star)]()
+|[VirtualView-iOS](https://github.com/alibaba/VirtualView-iOS) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/VirtualView-iOS.svg?style=social&label=Star)]()
+|[virtualview_tools](https://github.com/alibaba/virtualview_tools) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/virtualview_tools.svg?style=social&label=Star)]()
 |[AndFix](https://github.com/alibaba/AndFix) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/AndFix.svg?style=social&label=Star)]()
+|[ice](https://github.com/alibaba/ice) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/ice.svg?style=social&label=Star)]()
+|[BizCharts](https://github.com/alibaba/BizCharts) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/BizCharts.svg?style=social&label=Star)]()
+|[easyexcel](https://github.com/alibaba/easyexcel) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/easyexcel.svg?style=social&label=Star)]()
+|[arthas](https://github.com/alibaba/arthas) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/arthas.svg?style=social&label=Star)]()
+|[BizGoblin](https://github.com/alibaba/BizGoblin) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/BizGoblin.svg?style=social&label=Star)]()
+|[LuaViewSDK](https://github.com/alibaba/LuaViewSDK) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/LuaViewSDK.svg?style=social&label=Star)]()
+|[LuaViewPlayground](https://github.com/alibaba/LuaViewPlayground) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/LuaViewPlayground.svg?style=social&label=Star)]()
+|[flutter-go](https://github.com/alibaba/flutter-go) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/flutter-go.svg?style=social&label=Star)]()
+|[fish-redux](https://github.com/alibaba/fish-redux) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/fish-redux.svg?style=social&label=Star)]()
+|[flutter_boost](https://github.com/alibaba/flutter_boost) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/flutter_boost.svg?style=social&label=Star)]()
+|[android_viewtracker](https://github.com/alibaba/android_viewtracker) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/android_viewtracker.svg?style=social&label=Star)]()
+|[Thera](https://github.com/alibaba/Thera) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/Thera.svg?style=social&label=Star)]()
+|[uirecorder](https://github.com/alibaba/uirecorder) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/uirecorder.svg?style=social&label=Star)]()
+|[HandyJSON](https://github.com/alibaba/HandyJSON) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/HandyJSON.svg?style=social&label=Star)]()
+|[p3c](https://github.com/alibaba/p3c) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/p3c.svg?style=social&label=Star)]()
+|[Alibaba-Java-Coding-Guidelines](https://github.com/alibaba/Alibaba-Java-Coding-Guidelines) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/Alibaba-Java-Coding-Guidelines.svg?style=social&label=Star)]()
+|[BeeHive](https://github.com/alibaba/BeeHive) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/BeeHive.svg?style=social&label=Star)]()
+|[JsonLube](https://github.com/alibaba/JsonLube) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/JsonLube.svg?style=social&label=Star)]()
+|[alpha](https://github.com/alibaba/alpha) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/alpha.svg?style=social&label=Star)]()
+|[LazyScrollView](https://github.com/alibaba/LazyScrollView) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/LazyScrollView.svg?style=social&label=Star)]()
 
-## [Qihoo360](https://github.com/Qihoo360/RePlugin)
+## [Qihoo360](https://github.com/Qihoo360)
 | Repo | Star |
 | :--: | :--: |
 |[RePlugin](https://github.com/Qihoo360/RePlugin) | [![GitHub stars](https://img.shields.io/github/stars/Qihoo360/RePlugin.svg?style=social&label=Star)]()
 |[DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) | [![GitHub stars](https://img.shields.io/github/stars/DroidPluginTeam/DroidPlugin.svg?style=social&label=Star)]()
 |[NativeIORedirect](https://github.com/DroidPluginTeam/NativeIORedirect) | [![GitHub stars](https://img.shields.io/github/stars/DroidPluginTeam/NativeIORedirect.svg?style=social&label=Star)]()
+|[artdumper](https://github.com/DroidPluginTeam/artdumper) | [![GitHub stars](https://img.shields.io/github/stars/DroidPluginTeam/artdumper.svg?style=social&label=Star)]()
+|[ArgusAPM](https://github.com/DroidPluginTeam/ArgusAPM) | [![GitHub stars](https://img.shields.io/github/stars/DroidPluginTeam/ArgusAPM.svg?style=social&label=Star)]()
 
 ## [Meituan-Dianping](https://github.com/Meituan-Dianping)
 | Repo | Star |
@@ -79,11 +107,17 @@
 |[Robust](https://github.com/Meituan-Dianping/Robust) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Robust.svg?style=social&label=Star)]()
 |[walle](https://github.com/Meituan-Dianping/walle) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/walle.svg?style=social&label=Star)]()
 |[Shield](https://github.com/Meituan-Dianping/Shield) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Shield.svg?style=social&label=Star)]()
+|[beeshell](https://github.com/Meituan-Dianping/beeshell) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/beeshell.svg?style=social&label=Star)]()
+|[Logan](https://github.com/Meituan-Dianping/Logan) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/Logan.svg?style=social&label=Star)]()
+|[mpvue](https://github.com/Meituan-Dianping/mpvue) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/mpvue.svg?style=social&label=Star)]()
+|[EasyReact](https://github.com/Meituan-Dianping/EasyReact) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/EasyReact.svg?style=social&label=Star)]()
+|[lyrebird-android](https://github.com/Meituan-Dianping/lyrebird-android) | [![GitHub stars](https://img.shields.io/github/stars/Meituan-Dianping/lyrebird-android.svg?style=social&label=Star)]()
 
 ## [ctripcorp](https://github.com/ctripcorp)
 | Repo | Star |
 | :--: | :--: |
 |[moles-packer](https://github.com/ctripcorp/moles-packer) | [![GitHub stars](https://img.shields.io/github/stars/ctripcorp/moles-packer.svg?style=social&label=Star)]()
+|[CRN](https://github.com/ctripcorp/CRN) | [![GitHub stars](https://img.shields.io/github/stars/ctripcorp/CRN.svg?style=social&label=Star)]()
 |[DynamicAPK](https://github.com/CtripMobile/DynamicAPK) | [![GitHub stars](https://img.shields.io/github/stars/CtripMobile/DynamicAPK.svg?style=social&label=Star)]()
 
 ## [eleme](https://github.com/eleme)
@@ -96,6 +130,7 @@
 |[Intimate](https://github.com/eleme/Intimate) | [![GitHub stars](https://img.shields.io/github/stars/eleme/Intimate.svg?style=social&label=Star)]()
 |[Trojan](https://github.com/eleme/Trojan) | [![GitHub stars](https://img.shields.io/github/stars/eleme/Trojan.svg?style=social&label=Star)]()
 |[UETool](https://github.com/eleme/UETool) | [![GitHub stars](https://img.shields.io/github/stars/eleme/UETool.svg?style=social&label=Star)]()
+|[Intimate](https://github.com/eleme/Intimate) | [![GitHub stars](https://img.shields.io/github/stars/eleme/Intimate.svg?style=social&label=Star)]()
 
 ## [meili](https://github.com/meili)
 | Repo | Star |
@@ -105,6 +140,10 @@
 |[natasha](https://github.com/meili/natasha) | [![GitHub stars](https://img.shields.io/github/stars/meili/natasha.svg?style=social&label=Star)]()
 |[TinyPIC_Gradle_Plugin](https://github.com/meili/TinyPIC_Gradle_Plugin) | [![GitHub stars](https://img.shields.io/github/stars/meili/TinyPIC_Gradle_Plugin.svg?style=social&label=Star)]()
 |[WebpConvert_Gradle_Plugin](https://github.com/meili/WebpConvert_Gradle_Plugin) | [![GitHub stars](https://img.shields.io/github/stars/meili/WebpConvert_Gradle_Plugin.svg?style=social&label=Star)]()
+|[min-cli](https://github.com/meili/min-cli) | [![GitHub stars](https://img.shields.io/github/stars/meili/min-cli.svg?style=social&label=Star)]()
+|[minui](https://github.com/meili/minui) | [![GitHub stars](https://img.shields.io/github/stars/meili/minui.svg?style=social&label=Star)]()
+|[minui](https://github.com/meili/minui) | [![GitHub stars](https://img.shields.io/github/stars/meili/minui.svg?style=social&label=Star)]()
+|[natasha](https://github.com/meili/natasha) | [![GitHub stars](https://img.shields.io/github/stars/meili/natasha.svg?style=social&label=Star)]()
 
 ## [Bilibili](https://github.com/Bilibili)
 | Repo | Star |
@@ -116,19 +155,33 @@
 |[BiliShare](https://github.com/Bilibili/BiliShare) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/BiliShare.svg?style=social&label=Star)]()
 |[apk-channelization](https://github.com/Bilibili/apk-channelization) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/apk-channelization.svg?style=social&label=Star)]()
 |[drawee-text-view](https://github.com/Bilibili/drawee-text-view) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/drawee-text-view.svg?style=social&label=Star)]()
+|[BurstLinker](https://github.com/Bilibili/BurstLinker) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/BurstLinker.svg?style=social&label=Star)]()
+|[jni4android](https://github.com/Bilibili/jni4android) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/jni4android.svg?style=social&label=Star)]()
 
 ## [iReader](https://github.com/iReaderAndroid)
-## [ireaderlab](https://github.com/ireaderlab)
 | Repo | Star |
 | :--: | :--: |
 |[ZeusHotfix](https://github.com/iReaderAndroid/ZeusHotfix) | [![GitHub stars](https://img.shields.io/github/stars/iReaderAndroid/ZeusHotfix.svg?style=social&label=Star)]()
 |[PatchPluginForZeus](https://github.com/iReaderAndroid/PatchPluginForZeus) | [![GitHub stars](https://img.shields.io/github/stars/iReaderAndroid/PatchPluginForZeus.svg?style=social&label=Star)]()
 |[ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin) | [![GitHub stars](https://img.shields.io/github/stars/iReaderAndroid/ZeusPlugin.svg?style=social&label=Star)]()
+|[X2C](https://github.com/iReaderAndroid/X2C) | [![GitHub stars](https://img.shields.io/github/stars/iReaderAndroid/X2C.svg?style=social&label=Star)]()
+## [ireaderlab](https://github.com/ireaderlab)
+| Repo | Star |
+| :--: | :--: |
+|[zyMedia](https://github.com/ireaderlab/zyMedia) | [![GitHub stars](https://img.shields.io/github/stars/ireaderlab/zyMedia.svg?style=social&label=Star)]()
+|[AndroidCrashReport](https://github.com/ireaderlab/AndroidCrashReport) | [![GitHub stars](https://img.shields.io/github/stars/ireaderlab/AndroidCrashReport.svg?style=social&label=Star)]()
 
 ## [didi](https://github.com/didi)
 | Repo | Star |
 | :--: | :--: |
 |[VirtualAPK](https://github.com/didi/VirtualAPK) | [![GitHub stars](https://img.shields.io/github/stars/didi/VirtualAPK.svg?style=social&label=Star)]()
+|[mpx](https://github.com/didi/mpx) | [![GitHub stars](https://img.shields.io/github/stars/didi/mpx.svg?style=social&label=Star)]()
+|[chameleon](https://github.com/didi/chameleon) | [![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg?style=social&label=Star)]()
+|[booster](https://github.com/didi/booster) | [![GitHub stars](https://img.shields.io/github/stars/didi/booster.svg?style=social&label=Star)]()
+|[mand-mobile](https://github.com/didi/mand-mobile) | [![GitHub stars](https://img.shields.io/github/stars/didi/mand-mobile.svg?style=social&label=Star)]()
+|[DoraemonKit](https://github.com/didi/DoraemonKit) | [![GitHub stars](https://img.shields.io/github/stars/didi/DoraemonKit.svg?style=social&label=Star)]()
+|[DroidAssist](https://github.com/didi/DroidAssist) | [![GitHub stars](https://img.shields.io/github/stars/didi/DroidAssist.svg?style=social&label=Star)]()
+|[cube-ui](https://github.com/didi/cube-ui) | [![GitHub stars](https://img.shields.io/github/stars/didi/cube-ui.svg?style=social&label=Star)]()
 
 ## [iqiyi](https://github.com/iqiyi)
 | Repo | Star |
@@ -136,7 +189,10 @@
 |[dexSplitter](https://github.com/iqiyi/dexSplitter) | [![GitHub stars](https://img.shields.io/github/stars/iqiyi/dexSplitter.svg?style=social&label=Star)]()
 |[LiteApp](https://github.com/iqiyi/LiteApp) | [![GitHub stars](https://img.shields.io/github/stars/iqiyi/LiteApp.svg?style=social&label=Star)]()
 |[xHook](https://github.com/iqiyi/xHook) | [![GitHub stars](https://img.shields.io/github/stars/iqiyi/xHook.svg?style=social&label=Star)]()
+|[xCrash](https://github.com/iqiyi/xCrash) | [![GitHub stars](https://img.shields.io/github/stars/iqiyi/xCrash.svg?style=social&label=Star)]()
 |[lotus](https://github.com/iqiyi/lotus) | [![GitHub stars](https://img.shields.io/github/stars/iqiyi/lotus.svg?style=social&label=Star)]()
+|[Neptune](https://github.com/iqiyi/Neptune) | [![GitHub stars](https://img.shields.io/github/stars/iqiyi/Neptune.svg?style=social&label=Star)]()
+|[Andromeda](https://github.com/iqiyi/Andromeda) | [![GitHub stars](https://img.shields.io/github/stars/iqiyi/Andromeda.svg?style=social&label=Star)]()
 
 ## [airbnb](https://github.com/airbnb)
 | Repo | Star |
