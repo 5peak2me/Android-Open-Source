@@ -256,6 +256,8 @@
 | Repo | Star |
 | :--: | :--: |
 |[ARouter](https://github.com/alibaba/ARouter) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/ARouter.svg?style=social&label=Star)]()
+
+|[WMRouter](https://github.com/meituan/WMRouter) | [![GitHub stars](https://img.shields.io/github/stars/meituan/WMRouter.svg?style=social&label=Star)]()
 |[Router](https://github.com/chenenyu/Router) | [![GitHub stars](https://img.shields.io/github/stars/chenenyu/Router.svg?style=social&label=Star)]()
 |[AndRouter](https://github.com/campusappcn/AndRouter) | [![GitHub stars](https://img.shields.io/github/stars/campusappcn/AndRouter.svg?style=social&label=Star)]()
 |[ActivityRouter](https://github.com/mzule/ActivityRouter) | [![GitHub stars](https://img.shields.io/github/stars/mzule/ActivityRouter.svg?style=social&label=Star)]()
