@@ -45,6 +45,7 @@
 ## [Tencent](https://github.com/Tencent)
 | Repo | Star |
 | :--: | :--: |
+|[Shadow](https://github.com/Tencent/Shadow) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/Shadow.svg?style=social&label=Star)]()
 | [tinker](https://github.com/Tencent/tinker) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/tinker.svg?style=social&label=Star)]()
 | [mars](https://github.com/Tencent/mars) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/mars.svg?style=social&label=Star)]()
 | [wcdb](https://github.com/Tencent/wcdb) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/wcdb.svg?style=social&label=Star)]()
@@ -290,6 +291,7 @@
 ### 插件化
 | Repo | Star |
 | :--: | :--: |
+|[Shadow](https://github.com/Tencent/Shadow) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/Shadow.svg?style=social&label=Star)]()
 |[atlas](https://github.com/alibaba/atlas) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/atlas.svg?style=social&label=Star)]()
 |[RePlugin](https://github.com/Qihoo360/RePlugin) | [![GitHub stars](https://img.shields.io/github/stars/Qihoo360/RePlugin.svg?style=social&label=Star)]()
 |[DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) | [![GitHub stars](https://img.shields.io/github/stars/DroidPluginTeam/DroidPlugin.svg?style=social&label=Star)]()
