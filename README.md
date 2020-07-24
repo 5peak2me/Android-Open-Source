@@ -298,7 +298,6 @@
 |[Naviganto](https://github.com/FireZenk/Naviganto) | [![GitHub stars](https://img.shields.io/github/stars/FireZenk/Naviganto.svg?style=social&label=Star)]()
 |[SAF-Kotlin-Router](https://github.com/fengzhizi715/SAF-Kotlin-Router) | [![GitHub stars](https://img.shields.io/github/stars/fengzhizi715/SAF-Kotlin-Router.svg?style=social&label=Star)]()
 |[NavRouter](https://github.com/zktufo/NavRouter) | [![GitHub stars](https://img.shields.io/github/stars/zktufo/NavRouter.svg?style=social&label=Star)]()
-|[BAndroidRouter](https://github.com/beansoftapp/BAndroidRouter) | [![GitHub stars](https://img.shields.io/github/stars/beansoftapp/BAndroidRouter.svg?style=social&label=Star)]()
 |[ht-universalrouter-android](https://github.com/NEYouFan/ht-universalrouter-android) | [![GitHub stars](https://img.shields.io/github/stars/NEYouFan/ht-universalrouter-android.svg?style=social&label=Star)]()
 |[Android-Rudolph-Router](https://github.com/wzbos/Android-Rudolph-Router) | [![GitHub stars](https://img.shields.io/github/stars/wzbos/Android-Rudolph-Router.svg?style=social&label=Star)]()
 |[router](https://github.com/ilioili/router) | [![GitHub stars](https://img.shields.io/github/stars/ilioili/router.svg?style=social&label=Star)]()
