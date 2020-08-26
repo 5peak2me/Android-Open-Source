@@ -313,6 +313,7 @@
 |[PortalRouter](https://github.com/jifuliya/PortalRouter) | [![GitHub stars](https://img.shields.io/github/stars/jifuliya/PortalRouter.svg?style=social&label=Star)]()
 |[xRouter](https://github.com/WinterRunner/xRouter) | [![GitHub stars](https://img.shields.io/github/stars/WinterRunner/xRouter.svg?style=social&label=Star)]()
 |[MultiProcessRouter](https://github.com/Ryan-Shz/MultiProcessRouter) | [![GitHub stars](https://img.shields.io/github/stars/Ryan-Shz/MultiProcessRouter.svg?style=social&label=Star)]()
+|[Router-Android](https://github.com/Leifzhang/Router-Android) | [![GitHub stars](https://img.shields.io/github/stars/Leifzhang/Router-Android.svg?style=social&label=Star)]()
 
 ### 插件化
 | Repo | Star |
