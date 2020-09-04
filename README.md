@@ -180,6 +180,7 @@
 |[drawee-text-view](https://github.com/Bilibili/drawee-text-view) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/drawee-text-view.svg?style=social&label=Star)]()
 |[BurstLinker](https://github.com/Bilibili/BurstLinker) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/BurstLinker.svg?style=social&label=Star)]()
 |[jni4android](https://github.com/Bilibili/jni4android) | [![GitHub stars](https://img.shields.io/github/stars/Bilibili/jni4android.svg?style=social&label=Star)]()
+|[BRouter](https://github.com/bilibili/BRouter) | [![GitHub stars](https://img.shields.io/github/stars/bilibili/BRouter.svg?style=social&label=Star)]()
 
 ## [iReader](https://github.com/iReaderAndroid)
 | Repo | Star |
@@ -314,6 +315,7 @@
 |[xRouter](https://github.com/WinterRunner/xRouter) | [![GitHub stars](https://img.shields.io/github/stars/WinterRunner/xRouter.svg?style=social&label=Star)]()
 |[MultiProcessRouter](https://github.com/Ryan-Shz/MultiProcessRouter) | [![GitHub stars](https://img.shields.io/github/stars/Ryan-Shz/MultiProcessRouter.svg?style=social&label=Star)]()
 |[Router-Android](https://github.com/Leifzhang/Router-Android) | [![GitHub stars](https://img.shields.io/github/stars/Leifzhang/Router-Android.svg?style=social&label=Star)]()
+|[BRouter](https://github.com/bilibili/BRouter) | [![GitHub stars](https://img.shields.io/github/stars/bilibili/BRouter.svg?style=social&label=Star)]()
 
 ### 插件化
 | Repo | Star |
